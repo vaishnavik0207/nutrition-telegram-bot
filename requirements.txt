@@ -1,0 +1,15 @@
+# Tested compatible versions
+langchain==0.1.20
+langchain-core==0.1.52
+langchain-openai==0.0.8
+openai==1.12.0
+
+# FastAPI for Telegram bot
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# Essential utilities
+requests==2.31.0
+python-dotenv==1.0.0
+tenacity==8.2.3
+pydantic==2.5.0
