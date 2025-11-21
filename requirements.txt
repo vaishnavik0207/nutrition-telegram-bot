@@ -1,4 +1,4 @@
-# Tested compatible versions
+# Core packages
 langchain==0.1.20
 langchain-core==0.1.52
 langchain-openai==0.0.8
